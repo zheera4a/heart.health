@@ -1,6 +1,8 @@
 # Mohammad Azad , Zheer Kamal
 # heart.health
 colab link : https://colab.research.google.com/drive/1C9VnHniOss6Ci8D1vdWKH4vw09EDyqu4?usp=sharing
+
+
 This dataset comprises demographic information, vital signs, and heart health status indicators for individuals. It includes features such as age, gender, blood pressure, cholesterol levels, and whether the individual has experienced a heart attack. The dataset is valuable for analyzing trends related to cardiovascular health and assessing the risk factors associated with heart disease. Researchers and healthcare professionals can utilize this data to identify patterns, develop predictive models, and formulate personalized interventions for heart disease prevention and management.
 Demographic Information:
 
